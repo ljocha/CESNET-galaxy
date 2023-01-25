@@ -76,4 +76,18 @@ je na to z nějakých důvodů extra playbook
 
 ## Nástroje
 
+Specifická sada pro potřeby komunity, částečně standardní, sada vlastních 
+
+Definice pro Galaxy v https://github.com/RECETOX/galaxytools
+
+TODO: není mi zcela zřejmý mechanismus konfigurace
+
+Integrační testy v Github Actions
+
+Zdrojáky vlastních nástrojů a forků v https://github.com/RECETOX/
+
 ## Workflow
+
+https://github.com/RECETOX/workflow-testing
+
+ale nevypadá to příliš živě, a neodpovídá zveřejněným workflow přímo v umsa.cerit-sc.cz; i tam je ale dost chaos
